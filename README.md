@@ -15,7 +15,7 @@ https://github.com/MiguelC96/Gestion_Repuestos_SQLServer_DB/blob/main/ER_Gestion
 
 
     
-Cómo Contribuir
+Cómo Contribuir?
 ¡Tu contribución es bienvenida! Si tienes sugerencias de mejoras, encuentras algún error o quieres añadir nuevas características, no dudes en abrir un issue o enviar un pull request.
 
 Contacto
