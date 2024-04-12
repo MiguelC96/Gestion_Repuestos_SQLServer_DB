@@ -6,6 +6,7 @@ Base de Datos de Gestión de Compras y Ventas de autopartes.
 
 Este proyecto consiste en una base de datos diseñada para la gestión de compras y ventas, especialmente orientada al seguimiento de inventario y transacciones comerciales.
 
+(TODOS LOS DATOS INGRESADOS SON FICTICIOS Y SOLO PARA FINES ACADEMICOS)
 
 Diagrama de Entidad-Relación (ER)
 
