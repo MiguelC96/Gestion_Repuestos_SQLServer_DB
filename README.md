@@ -19,7 +19,7 @@ Cómo Contribuir?
 ¡Tu contribución es bienvenida! Si tienes sugerencias de mejoras, encuentras algún error o quieres añadir nuevas características, no dudes en abrir un issue o enviar un pull request.
 
 Contacto
-Para cualquier pregunta o comentario, no dudes en contactarme por correo electrónico: macd5896@gmail.com
+Para cualquier pregunta o comentario, no dudes en contactarme por correo electrónico: macd5896@gmail.com o por linkedin: https://www.linkedin.com/in/miguel-carmona-362349187/
 
 Licencia
 Este proyecto está licenciado bajo la Licencia MIT.
