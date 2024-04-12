@@ -9,7 +9,7 @@ Este proyecto consiste en una base de datos diseñada para la gestión de compra
 
 Diagrama de Entidad-Relación (ER)
 
-
+https://github.com/MiguelC96/Gestion_Repuestos_SQLServer_DB/blob/main/ER_GestionRepuestos.png
 
 
 
